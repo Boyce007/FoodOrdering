@@ -7,6 +7,8 @@
       "@componets/*":["src/componets/*"],
       "@*": ["src/*"],
       "@assets/*":["assets/*"],
+      "@constants/*":["src/constants/*"],
+      
 
     }
   },
